@@ -48,10 +48,10 @@ public class Results extends AppCompatActivity {
                 .load("https://storage.googleapis.com/tagjs-prod.appspot.com/v1/9rqxDX0LNX/uvheynfh_expires_30_days.png")
                 .into(imageView1); // <--- Use the typed ImageView variable
 
-        ImageView imageView2 = findViewById(R.id.rl7588wdkhd);
-        Glide.with(this)
-                .load("https://storage.googleapis.com/tagjs-prod.appspot.com/v1/9rqxDX0LNX/t0zkufed_expires_30_days.png")
-                .into(imageView2); // <--- Use the typed ImageView variable
+//        ImageView imageView2 = findViewById(R.id.rl7588wdkhd);
+//        Glide.with(this)
+//                .load("https://storage.googleapis.com/tagjs-prod.appspot.com/v1/9rqxDX0LNX/t0zkufed_expires_30_days.png")
+//                .into(imageView2); // <--- Use the typed ImageView variable
 
 //        ImageView imageView3 = findViewById(R.id.ra07via2hk7l);
 //        Glide.with(this)

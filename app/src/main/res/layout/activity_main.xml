@@ -65,13 +65,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         >
-        <ImageView
-            android:id="@+id/rlndyr5g9rc"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:src="@mipmap/ic_launcher"
-            android:scaleType="fitXY"
-            />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -82,7 +76,7 @@
             <LinearLayout
                 android:id="@+id/rr7pvgb5n6tg"
                 android:layout_width="match_parent"
-                android:layout_height="672dp"
+                android:layout_height="632dp"
                 android:layout_marginHorizontal="19dp"
                 android:layout_marginTop="35dp"
                 android:layout_marginBottom="12dp"
@@ -91,7 +85,7 @@
                 android:clipToPadding="false"
                 android:orientation="vertical"
                 android:paddingTop="25dp"
-                android:paddingBottom="40dp">
+                android:paddingBottom="20dp">
 
                 <TextView
                     android:id="@+id/rfa6jnoeiqe7"
@@ -301,7 +295,7 @@
                 android:layout_width="347dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="31dp"
-                android:layout_marginBottom="72dp"
+                android:layout_marginBottom="35dp"
                 android:background="@drawable/sbec9c5sw1cr28be9efec"
                 android:clickable="true"
                 android:clipChildren="false"
@@ -318,7 +312,7 @@
                     android:text="Analyze Results"
                     android:textAlignment="center"
                     android:textColor="#1D1B1B"
-                    android:textSize="20sp"
+                    android:textSize="24sp"
                     android:textStyle="bold" />
 
             </LinearLayout>

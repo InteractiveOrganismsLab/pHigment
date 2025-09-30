@@ -20,10 +20,10 @@ public class GetStarted extends AppCompatActivity {
                 .into(imageView1);
 
         // Cast to ImageView
-        ImageView imageView2 = findViewById(R.id.rrxn2ma80tmc);
-        Glide.with(this)
-                .load("https://storage.googleapis.com/tagjs-prod.appspot.com/v1/9rqxDX0LNX/a17h0kam_expires_30_days.png")
-                .into(imageView2);
+//        ImageView imageView2 = findViewById(R.id.rrxn2ma80tmc);
+//        Glide.with(this)
+//                .load("https://storage.googleapis.com/tagjs-prod.appspot.com/v1/9rqxDX0LNX/a17h0kam_expires_30_days.png")
+//                .into(imageView2);
 
         View button1 = findViewById(R.id.rvbd4cmihwwc);
         button1.setOnClickListener(new View.OnClickListener() {
