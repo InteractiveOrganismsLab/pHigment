@@ -85,12 +85,12 @@ Calcium Chloride Solution Ingredients:
 - 2.5 gSunflower Oil 
 - 3 g Sodium Alginate
 
-**To Make Calcium Chloride**
+**To Make the Calcium Chloride Solution**
 1. Heat 100g of water until hot, either on the stove or in a kettle
 2. stir in 10f of calcium chloride until dissovled
 3. pour in a spray bottle and let cool completely
 
-**To Make Biomaterial**
+**To Make the Biomaterial**
 
 
 
