@@ -26,6 +26,7 @@ We frame this project around the dual objective of designing on-body colorimetri
 - **Phillip Gough** - Design lab, School of Architecture, Design and Planning, The University of Sydney, Sydney, NSW, Australia
 - **Anusha Wishana** - School of Computer Science, The University of Sydney, Sydney, NSW, Australia
 - **Katia Vega** - University of California, Davis, USA
+- **Emily-Mae McConihe** - University of California, Davis, USA
 
 
 ## Abstract
@@ -58,14 +59,46 @@ components of a circular materials strategy.
 
 ## Fabrication
 
+Required Materials:
+- Immersion Blender
+- Cameo
+- Vacuum Chamber
+- Double-sided Sticky Paper
+- Disposable Boats (2-3)
+- Tracing Paper
+- Scissors
+- Long Small Spoon
+- Calcium Chloride Solution
+- Biomaterial
+- Spray Bottle
+- Plastic spreader or any straight and flat object to be used as such
+
+Calcium Chloride Solution Ingredients:
+- 10g calcium chloride
+- 100g water
+
 **Ingredients: (Measure in Mixing Order)**
 - 100 g Water 
 - 0.5 g Red Cabbage Powder 
 - 0.1 g Titanium Dioxide 
 - 5 g Glycerine 
 - 2.5 gSunflower Oil 
-- 3 g Sodium Alginate 
+- 3 g Sodium Alginate
 
+**To Make Calcium Chloride**
+1. Heat 100g of water until hot, either on the stove or in a kettle
+2. stir in 10f of calcium chloride until dissovled
+3. pour in a spray bottle and let cool completely
+
+**To Make Biomaterial**
+
+
+
+**Pouring and Drying the Biomaterial**
+
+
+**Cutting the Biomaterial**
+  
 **Instructions:**
 1. Use an immersion blender
 2. Add sodium alginate slowly (this prevents clumping)
