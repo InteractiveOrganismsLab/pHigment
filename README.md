@@ -150,16 +150,33 @@ components of a circular materials strategy.
 5. Stick the sticker paper with the attached biomaterial onto a corner of the sticky cutting mat, paper side down 
    - make sure to align it to the corner of the grid on the mat and to remove the protective film
 6. Turn on the machine
-7. Connect your computer through bluetooth or a cable connection
-8. Open up Silhoutte Studio
-9. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio
+7. Load the mat into the machine, this can also be done before sending the design
+8. Connect your computer through bluetooth or a cable connection
+9. Open up Silhoutte Studio
+10. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio
+11. Import image that you want traced by clicking on the icon that looks like a file
+12. To turn this image into an outline, select the trace button from the right hand panel, which opens up a small selection window.
+    - From there, press "select trace area" and draw a box around the entire image.
+    - Then change the "threshold" slider to make the yellow highlight smooth. Zoom in to check for loss of detail
+    - Hit "trace" to make the outline
+13. Repreat these steps on more images or duplicate your outline. Make sure to arrange all outlines so they will only fill the area that your biomaterial occupies on the gridded mat, which can be compared with the gridding in Silhoutte Studio.
+14. In the "page setup" button from the right panel, make sure the correct machine and media size is selected
+15. Then hit "send" in the top right corner and adjust settings accordingly:
+    - For material: select double sided adhesive or a thicker material such as fabric or heavy paper to ensure it cuts through
+    - Select autoblade
+    - Raise the force to a higher setting
+    - Can also do 2 passes to make the sure the design cuts but for intricate designs, only 1 pass should be used
+    - Set the speed to 3
+    - Set the blade depth all the way to 10
+16. Begin cutting
+17. When the machine is done, unload the mat and peel off your stickers
+18. Your stickers are read to be used! Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment.
 
 <img src="/photos/loading-cameo.jpeg" width="350">
 
 <img src="/photos/before-cleanup.jpeg" width="350">
   
 
-Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment
 
 ## Software Implementation
 
