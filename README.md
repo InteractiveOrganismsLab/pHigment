@@ -92,7 +92,7 @@ components of a circular materials strategy.
 
 **To Make the Calcium Chloride Solution**
 1. Heat 100g of water until hot, either on the stove or in a kettle
-2. Stir in 10f of calcium chloride until dissovled
+2. Stir in 10g of calcium chloride until dissovled
 3. Pour in a spray bottle and let cool completely
 4. This solution will be good for a long period of time and does not have to be remade for every batch of biomaterial
 
@@ -139,7 +139,7 @@ components of a circular materials strategy.
 
 8. Respray again from 1 foot, focusing on the edges of the biomaterial
 9. Dry the biomaterial with your chosen method, no part of it should feel wet when done
-10. Final product should be face mask consistency, paper-like and smooth
+10. Final product should be a face mask consistency, paper-like and smooth
 11. Peel the biomaterial carefully off of your surface
 
 **Cutting the Biomaterial**
@@ -153,10 +153,10 @@ components of a circular materials strategy.
 7. Load the mat into the machine, this can also be done before sending the design
 8. Connect your computer through bluetooth or a cable connection
 9. Open up Silhoutte Studio
-10. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio
-11. Import image that you want traced by clicking on the icon that looks like a file
+10. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio also
+11. Import image that you want traced by clicking on the icon that looks like a file whih is called "open"
 12. To turn this image into an outline, select the trace button from the right hand panel, which opens up a small selection window.
-    - From there, press "select trace area" and draw a box around the entire image.
+    - From there, press "select trace area" and draw a box around the entire image
     - Then change the "threshold" slider to make the yellow highlight smooth. Zoom in to check for loss of detail
     - Hit "trace" to make the outline
 13. Repreat these steps on more images or duplicate your outline. Make sure to arrange all outlines so they will only fill the area that your biomaterial occupies on the gridded mat, which can be compared with the gridding in Silhoutte Studio.
@@ -170,7 +170,7 @@ components of a circular materials strategy.
     - Set the blade depth all the way to 10
 16. Begin cutting
 17. When the machine is done, unload the mat and peel off your stickers
-18. Your stickers are read to be used! Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment.
+18. Your stickers are ready to be used! Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment.
 
 <img src="/photos/loading-cameo.jpeg" width="350">
 
