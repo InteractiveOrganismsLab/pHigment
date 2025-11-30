@@ -23,7 +23,7 @@ We frame this project around the dual objective of designing on-body colorimetri
 
 - **Olivia Bates** - University of California, Davis, USA
 - **Alyssa Yee** - University of California, Davis, USA
-- - **Emily-Mae McConihe** - University of California, Davis, USA
+- **Emily-Mae McConihe** - University of California, Davis, USA
 - **Phillip Gough** - Design lab, School of Architecture, Design and Planning, The University of Sydney, Sydney, NSW, Australia
 - **Anusha Wishana** - School of Computer Science, The University of Sydney, Sydney, NSW, Australia
 - **Katia Vega** - University of California, Davis, USA
