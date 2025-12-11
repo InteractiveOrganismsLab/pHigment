@@ -116,20 +116,20 @@ Overall process:
    -  5 grams of glycerine into a boat, and pour it straight into jar
 
 <img src="/photos/cabbage-powder-amount.jpeg" width="250"> <img src="/photos/titanium-dioxide-amount.jpeg" width="250"> 
-<img src="/photos/measuring.jpeg" width="350">
+<img src="/photos/measuring.png" width="450">
 
 4. The 3 grams of sodium alginate should be measured into a boat and then added slowly to the jar while mixing with the immersion blender
    - add very small spoonfulls of the alginate at a time to prevent clumping
    - can split the amount into thirds but it is better to add in much smaller portions, such as 10ths, which will create a smoother mixture
    - add all the sodium alginate and mix with the immersion blender until fully combined and smooth - use the higher setting as it gets thicker
-<img src="/photos/mixing.jpeg" width="350">
+<img src="/photos/mixing.png" width="450">
 
 **Using the Vacuum Chamber**
 1. Place the jar (without a lid) in the center of the chamber - try taping it down as it will want to move
 2. Place the lid of the chamber on and make sure the plug is tight in the back, otherwise it will not pressurize
 3. Press the "on" button and hit the AI button (on the left of the lid) to change the time unitl it says 15 minutes
 
-<img src="/photos/vacuum-chamber.jpeg" width="250"> <img src="/photos/chamber.jpeg" width="250">
+<img src="/photos/vacuum-chamber.jpeg" width="250"> <img src="/photos/chamber.png" width="585">
 
 4. Make sure to watch the solution during this time to ensure that it doesn't bubble over
    - if it looks like it will, you can pause the machine with the go/pause symbols
@@ -141,14 +141,14 @@ Overall process:
    - an acyrlic sheet or another smooth non-stick surface if drying in the open air - will take 7 days or 3 warm days in the sun
    - a metal tray if drying in the oven/convection oven with a dehydrator setting - will take around 2 hours on a low setting of 120-140 degrees F
 2. Pour out the entire biomaterial solution onto your desired surface 
-<img src="/photos/pouring.jpeg" width="350">
+<img src="/photos/pouring.png" width="450">
 3. Spread out thin with a smoothing tool, not too thin that you can see the surface through the solution
    - the biomaterial is self-leveling so some low spots should even out if it is left to sit for a bit, but further spreading may be needed
 4. Shake or swirl the Calcium Chloride solution to ensure it is fully combined
 5. From a foot away, douse the biomaterial thoroughly with a fine mist of the Calcium Chloride solution
 6. Let sit for 5-10 minutes as the material with shrink, exposing the edges which are a lighter and wetter color
 
-<img src="/photos/wet-edges.jpeg" width="350">
+<img src="/photos/wet-edges.jpeg" width="450">
 
 8. Respray again from 1 foot, focusing on the edges of the biomaterial
 9. Dry the biomaterial with your chosen method, no part of it should feel wet when done
@@ -164,7 +164,7 @@ Overall process:
    - make sure to align it to the corner of the grid on the mat and to remove the protective film
 6. Turn on the machine
 7. Load the mat into the machine, this can also be done before sending the design
-<img src="/photos/loading-cameo.jpeg" width="350">
+<img src="/photos/loading-cameo.jpeg" width="450">
 8. Connect your computer through bluetooth or a cable connection
 9. Open up Silhoutte Studio
 10. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio also
@@ -183,7 +183,7 @@ Overall process:
     - Set the speed to 3
     - Set the blade depth all the way to 10
 16. Begin cutting
-<img src="/photos/cameo.jpeg" width="350">
+<img src="/photos/cameo.png" width="450">
 17. When the machine is done, unload the mat and peel off your stickers
 18. Your stickers are ready to be used! Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment.
 
@@ -196,6 +196,9 @@ Overall process:
 1. **Mobile Application**: Located in the `app` folder.
 
 ## pHigment Video
+
+[**Information Overview Video**](https://youtu.be/-ZdPE575b6Q?si=ze24PGNcfj9DUUra)
+[**Instructional Video**](https://youtu.be/YKGqKAzkS_Q?si=TA6Zh0Du7tm2h2rH)
 
 
 ## Contributing
