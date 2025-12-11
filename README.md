@@ -140,20 +140,22 @@ Overall process:
 1. Depending on how you plan to dry the biomaterial gather a flat surface:
    - an acyrlic sheet or another smooth non-stick surface if drying in the open air - will take 7 days or 3 warm days in the sun
    - a metal tray if drying in the oven/convection oven with a dehydrator setting - will take around 2 hours on a low setting of 120-140 degrees F
-2. Pour out the entire biomaterial solution onto your desired surface 
+2. Pour out the entire biomaterial solution onto your desired surface
+   
 <img src="/photos/pouring.png" width="450">
+
 3. Spread out thin with a smoothing tool, not too thin that you can see the surface through the solution
    - the biomaterial is self-leveling so some low spots should even out if it is left to sit for a bit, but further spreading may be needed
 4. Shake or swirl the Calcium Chloride solution to ensure it is fully combined
 5. From a foot away, douse the biomaterial thoroughly with a fine mist of the Calcium Chloride solution
 6. Let sit for 5-10 minutes as the material with shrink, exposing the edges which are a lighter and wetter color
-
+   
 <img src="/photos/wet-edges.jpeg" width="450">
 
-8. Respray again from 1 foot, focusing on the edges of the biomaterial
-9. Dry the biomaterial with your chosen method, no part of it should feel wet when done
-10. Final product should be a face mask consistency, paper-like and smooth
-11. Peel the biomaterial carefully off of your surface
+7. Respray again from 1 foot, focusing on the edges of the biomaterial
+8. Dry the biomaterial with your chosen method, no part of it should feel wet when done
+9. Final product should be a face mask consistency, paper-like and smooth
+10. Peel the biomaterial carefully off of your surface
 
 **Cutting the Biomaterial**
 1. Gather a sheet of the double-sided sticky paper
@@ -164,11 +166,14 @@ Overall process:
    - make sure to align it to the corner of the grid on the mat and to remove the protective film
 6. Turn on the machine
 7. Load the mat into the machine, this can also be done before sending the design
+   
 <img src="/photos/loading-cameo.jpeg" width="450">
+
 8. Connect your computer through bluetooth or a cable connection
 9. Open up Silhoutte Studio
 10. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio also
 11. Import image that you want traced by clicking on the icon that looks like a file whih is called "open"
+    - Alternatively, in the 'downloads' folder there is a silhouette studio file with already traced images and assets, or there are two image files that can be imported into the software to then trace by following the following steps
 12. To turn this image into an outline, select the trace button from the right hand panel, which opens up a small selection window.
     - From there, press "select trace area" and draw a box around the entire image
     - Then change the "threshold" slider to make the yellow highlight smooth. Zoom in to check for loss of detail
@@ -183,12 +188,12 @@ Overall process:
     - Set the speed to 3
     - Set the blade depth all the way to 10
 16. Begin cutting
+
 <img src="/photos/cameo.png" width="450">
+
 17. When the machine is done, unload the mat and peel off your stickers
 18. Your stickers are ready to be used! Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment.
 
-
-  
 
 
 ## Software Implementation
